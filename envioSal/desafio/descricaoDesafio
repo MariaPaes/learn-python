@@ -1,0 +1,24 @@
+Envio do Sal
+Sal dirige a maior empresa de navegação da área dos três condados, a Sal's Shippers. Sal quer garantir
+ que cada um de seus clientes tenha a melhor e mais acessível experiência no envio de seus pacotes.
+
+Neste projeto, você criará um programa que assumirá o peso de um pacote e determinará a maneira mais 
+barata de enviar esse pacote usando os Sal's Shippers.
+
+A Sal's Shippers tem várias opções diferentes para um cliente enviar seu pacote:
+
+Envio terrestre, que é uma pequena taxa fixa mais uma taxa baseada no peso do seu pacote.
+Ground Shipping Premium, que é uma taxa fixa muito mais alta, mas você não é cobrado pelo peso.
+Drone Shipping (novo), que não tem taxa fixa, mas a taxa baseada no peso é o triplo da taxa de envio
+ terrestre.
+ 
+Estão em anexo os preços.
+
+
+Escreva um programa Python shipping.py que pergunte ao usuário o peso de seu pacote e, em seguida, 
+informe qual método de envio é mais barato e quanto custará enviar seu pacote usando os remetentes do 
+Sal.
+
+Observe que o vídeo passo a passo para este projeto está um pouco desatualizado — o passo a passo foi 
+feito usando uma versão deste projeto que usa funções. Sinta-se à vontade para voltar ao vídeo depois de
+ ter sido apresentado às funções!
