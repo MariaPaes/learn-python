@@ -1,0 +1,16 @@
+Clippers de Carly
+Você é o analista de dados da Carly's Clippers, o mais novo salão de cabeleireiro do 
+quarteirão. Seu trabalho é examinar as listas de dados que foram coletados nas últimas 
+semanas. Você calculará algumas métricas importantes que Carly pode usar para planejar a
+ operação do negócio para o resto do mês.
+
+Você recebeu três listas:
+
+hairstyles: os nomes dos cortes oferecidos no Carly's Clippers.
+prices: o preço de cada penteado da lista.hairstyles
+last_week: o número de compras para cada tipo de penteado na última semana.
+Cada índice em corresponde a um índice associado em e . hairstylespriceslast_week
+
+Por exemplo, O penteado tem um preço associado de da lista e foi comprado vezes na última 
+semana, conforme mostrado na lista. Cada um desses elementos está no primeiro índice de 
+suas respectivas listas. "bouffant"30prices2last_week
